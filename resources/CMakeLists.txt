@@ -1,0 +1,127 @@
+﻿configure_file ( c:/SFML/SFML-2.5.1/bin/openal32.dll ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "DoomFont.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "oldDoomFont.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ( "back.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "back2.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "back3.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ( "keysHelp.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "armoryHelp.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "monstersHelp.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "helpBack.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ( "dynamicFire.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ( "machineGunAmmo.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "shotgunAmmo.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "pistolAmmo.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "BFGAmmo.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+
+configure_file ( "smallHealth.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "bigHealth.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "ultraHealth.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+
+configure_file ( "verWall.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "horiWall.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "DiagonalLeftWall.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ( "Armor.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "weapons.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ( "levels.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "levels1.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "doomback.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "BFGshot.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "BFGexp2.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "PistolShot2.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "shotGunbullet.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "machineGunBullet.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "machineGunBullet5.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ( "mancubusShot.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "mancubusBlast.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "cyberdemonBlast.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "cyberdemonShot.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+
+configure_file ( "baronattack.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "barondeath.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "baroninjured.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "bfgfire.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "bfghit.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "cacodemonattack.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "cacodemondeath.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "cacodemoninjured.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "chaingunfire.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "cyberdemonattack.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "cyberdemondeath.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "cyberdemoninjured.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "hwgattack.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "hwgdeath.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "hwginjured.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "itempickup.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "pistolfire.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "revenantattack.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "revenantdeath.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "revenantinjured.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "shotgunfire.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "slayerdeath.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "slayerinjured.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "baronsight.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "cacodemonsight.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "cyberdemonsight.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "mancubusattack.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "mancubusdeath.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "mancubusinjured.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "mancubussight.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "slayerdash.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "slayerdash2.flac" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "slayerdash3.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "armorPickup.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "ammoPickUp.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "hwdsight.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "mancubushit.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "lasercyberdemon.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ( "killingspree.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "doublekill.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "godlike.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "multikill.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "ultrakill.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ( "plasmaRifle.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "revenantsight.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "unstopable.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "humiliation.oga" ${CMAKE_BINARY_DIR} COPYONLY)
+
+
+configure_file ( "hellKnight.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "Cyberdemon.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "cacodemon.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "Slayer.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "Revenant.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "HeavyWeaponDude.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "Mancubus.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "Arachnotron.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "PlasmaRifleAmmo.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "dudeShot.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "OptionsLogo.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "dash.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ( "PlasmaShot.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "PlasmaShot2.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "HWDshot.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+
+configure_file ( "endGame.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+
+
+
+configure_file ( "MenuMusic.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "inGameMusic.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "toolbar.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ( "cacodemon.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
